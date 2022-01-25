@@ -1,1 +1,4 @@
+gcc
+tdsodbc 
 unixodbc-dev
+unixodbc-bin
